@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.streamlit/
+security_logs.db
+.env
